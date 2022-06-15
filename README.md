@@ -7,6 +7,7 @@
 | --- | --- | --- |
 | [Dog Breed Prediction](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/dog-breed-prediction/Dog%20Breed%20Prediction.ipynb) | `Supervised MultiClass Classification` | `TensorFlow` `Keras` |
 | [Traffic Sign Classification](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/traffic-sign-classification/Traffic%20Sign%20Classification.ipynb) | `Supervised MultiClass Classification` | `TensorFlow` `Keras` |
+| [Plant Disease Prediction Streamlit](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/plant-disease-prediction-streamlit/Plant%20Disease%20Prediction%20Streamlit.ipynb) | `Supervised MultiClass Classification` | `TensorFlow` `Keras` `openCV` |
 
 
 
