@@ -19,4 +19,5 @@
 | [Automatic Image Watermarking](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/automatic-image-watermarking/Automatic%20Image%20Watermarking.ipynb) | `Computer Vision` | `openCV` |
 | [Text Extraction from Images](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/text-extraction-from-images/Text_Extraction_From_Images.ipynb) | `Computer Vision` | `openCV` `pytesseract` `Tesseract OCR ` |
 | [Vehicle Detection and Counting](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/vehicle-detect-count/Vehicle%20Detection%20and%20Counting.ipynb) | `Computer Vision` | `openCV` `haar cascade` |
+| [Face Swaping](https://github.com/MaxMA2000/My-Data-Science-Projects-Portfolio/blob/face-swaping/Face%20Swaping.ipynb) | `Computer Vision` | `openCV` `DLIB` |
 
